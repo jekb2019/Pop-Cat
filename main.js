@@ -1,7 +1,7 @@
 const popcat = document.querySelector("#popcat");
 const btn = document.querySelector("#btn");
-const closeImgUrl = "./images/close.png";
-const openImgUrl = "./images/open.png";
+const closeImgUrl = "./images/close.jpg";
+const openImgUrl = "./images/open.jpg";
 const openSound = new Audio("./sound/sound-open.mp3");
 const closeSound = new Audio("./sound/sound-close.mp3");
 
